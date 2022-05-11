@@ -1,1 +1,1 @@
-# JavascriptDateHelperMEthods
+# JavascriptDateHelperMethods
